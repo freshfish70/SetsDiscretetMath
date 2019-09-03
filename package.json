@@ -1,0 +1,14 @@
+{
+  "name": "mengder",
+  "version": "1.0.0",
+  "description": "Mengder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christoffer a træen",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  }
+}
